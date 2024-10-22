@@ -15,6 +15,9 @@
                 <th>Visit Date</th>
                 <th>Visit Time</th>
                 <th>Patient ID</th>
+                <th>Visit Date</th>
+                <th>Visit Time</th>
+                <th>Patient ID</th>
               </tr>
             </thead>
             <tbody>
